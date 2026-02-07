@@ -8,4 +8,4 @@ public class CitizenRegistration {
         System.out.println(name);
 
     }
-}k
+}
